@@ -1,0 +1,6 @@
+name: BlackEffect
+main: BlackTeam\BlackEffect\BlackEffect
+api: [3.2.0]
+author: BlackTeam
+version: 1.0.0
+description: ajouter un effet dans votre objet avec un temps de recharge et un message
